@@ -1,0 +1,6 @@
+[
+  {"traveler": "李维", "type": "train", "date": "2026-04-15", "amount": "300", "application_code": "SQ-VISIT-DAY", "trip_type": "client_visit", "client_name": "南湖精密", "cabin": "second_class"},
+  {"traveler": "李维", "type": "train", "date": "2026-04-15", "amount": "300", "application_code": "SQ-VISIT-DAY", "trip_type": "client_visit", "client_name": "南湖精密", "cabin": "second_class"},
+  {"type": "hotel", "date": "2026-03-02", "amount": "500", "application_code": "SQ-ONSITE-001"},
+  {"traveler": "李维", "type": "hotel", "date": "2026-07-01", "amount": "400", "application_code": "SQ-MISSING", "trip_type": "onsite"}
+]
